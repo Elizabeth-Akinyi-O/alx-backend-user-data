@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/fd6dc647-94a3-4d02-abb2-d5d76c89ad0a)
+
+
 Learning Objectives:
 
 - Examples of Personally Identifiable Information (PII)
